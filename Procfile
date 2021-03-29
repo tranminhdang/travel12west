@@ -1,0 +1,1 @@
+web: java -war build/libs/rate-0.0.1-SNAPSHOT.war
